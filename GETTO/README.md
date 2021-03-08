@@ -1,3 +1,3 @@
-# << GETTO >>
-## JAVA GUI PROJECT
+# GETTO
+JAVA GUI PROJECT
 ------------------------------
