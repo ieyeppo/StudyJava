@@ -20,7 +20,7 @@ GUI 프로젝트에 이미지가 빠질수 없죠!
 일단 LOTTO게임은 자동이나 수동으로 1-45 사이의 중복되지 않는 숫자로 맞춘 숫자로 등수를 매겨 돈을 주지 않습니까?  
 물론 제가 만들 GETTO도 등수에 따라 상금은 당연히 지급합니다.   
 단 LOTTO와 차이점이 있다면 우리 GETTO사이트를 탈퇴할 수 있다는 것이죠^^  
-![exImg](https://blog.kakaocdn.net/dn/1EMbr/btqEW3D6ElD/WcBLB7IUGcBqVWgK5SHNMK/img.jpg?raw=true?raw=true "")
+![exImg](https://blog.kakaocdn.net/dn/1EMbr/btqEW3D6ElD/WcBLB7IUGcBqVWgK5SHNMK/img.jpg?raw=true?raw=true ""){: height = "600"}
   
    
 
