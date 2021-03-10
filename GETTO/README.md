@@ -3,7 +3,7 @@ JAVA GUI PROJECT
 
 ![실행화면](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/Getto%20Result%20Img/1.MainPage.png?raw=true "")
   
-------------------------------
+------------------------------  
 
 ## 개발 동기
 JAVA GUI 프로젝트로 LOTTO 만들어 봅시다.  
@@ -18,12 +18,14 @@ JAVA GUI 프로젝트로 LOTTO 만들어 봅시다.
   
     
 
-  
-GUI 의 기본 디자인을 그려보고 작업에 들어갔습니다.
+------------------------------------------------------------  
+
+## UI
 ![UI](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/UI/MainPage.png?raw=true?raw=true "")
 ![UI](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/UI/JoinPage1.png?raw=true?raw=true "")
 ![UI](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/UI/JoinPage2.png?raw=true?raw=true "")
-------------------------------------------------------------
+
+------------------------------------------------------------  
 
 
 
