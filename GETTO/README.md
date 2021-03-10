@@ -10,17 +10,26 @@ JAVA GUI 프로젝트로 LOTTO 만들어 봅시다.
 하지만 일반적인 로또는 루즈하기 때문에 LOTTO를 GETTO로 하는게 재밌겠지 않나요?  
 그리고 GETTO하면 너를 차지할거라는 집착이 느껴지는 단어인데 일반적인 LOTTO게임만 플레이된다면 GETTO를 쓸 이유가 없어집니다.  
 그러므로 당신을 GETTO할 수 있는 게임으로 만들기로 결정!  
+  
+  
+GUI 프로젝트에 이미지가 빠질수 없죠!  
+돈하면 생각나는 광고이미지가 떠올랐습니다. 산와머니 다들 아시죠?  
+친구가 돈을 빌렸다가 갚지 않고 있을 경우 산와머니 콩들이 쳐다보는 짤을 넘기면  
 
+  
 일단 LOTTO게임은 자동이나 수동으로 1-45 사이의 중복되지 않는 숫자로 맞춘 숫자로 등수를 매겨 돈을 주지 않습니까?  
 물론 제가 만들 GETTO도 등수에 따라 상금은 당연히 지급합니다.   
 단 LOTTO와 차이점이 있다면 우리 GETTO사이트를 탈퇴할 수 있다는 것이죠^^  
+![exImg](https://blog.kakaocdn.net/dn/1EMbr/btqEW3D6ElD/WcBLB7IUGcBqVWgK5SHNMK/img.jpg?raw=true?raw=true "")
   
-  
-    
+   
 
 ------------------------------------------------------------  
 
 ## UI
+GUI 의 기본 디자인을 그려보고 작업에 들어갔습니다.  
+  
+  
 ![UI](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/UI/MainPage.png?raw=true?raw=true "")
 ![UI](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/UI/JoinPage1.png?raw=true?raw=true "")
 ![UI](https://github.com/ieyeppo/StudyJava/blob/main/GETTO/UI/JoinPage2.png?raw=true?raw=true "")
